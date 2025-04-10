@@ -1,0 +1,18 @@
+{
+  "title": "INICIO | PiviGames",
+  "description": "En Pivigames está todo sobre videojuegos.",
+  "url": "https://pivigames.blog/",
+  "og": {
+    "type": "website",
+    "title": "INICIO | PiviGames",
+    "description": "En Pivigames está todo sobre videojuegos.",
+    "image": "https://metatags.io/images/meta-tags.png"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "url": "https://pivigames.blog/",
+    "title": "INICIO | PiviGames",
+    "description": "En Pivigames está todo sobre videojuegos.",
+    "image": "https://metatags.io/images/meta-tags.png"
+  }
+}
